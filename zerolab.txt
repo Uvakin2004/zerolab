@@ -1,0 +1,14 @@
+﻿'zerolab1.exe' (Win32): Loaded 'C:\Users\student\source\repos\zerolab1\Debug\zerolab1.exe'. Symbols loaded.
+'zerolab1.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ntdll.dll'. 
+'zerolab1.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel32.dll'. 
+'zerolab1.exe' (Win32): Loaded 'C:\Windows\SysWOW64\KernelBase.dll'. 
+'zerolab1.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcp140d.dll'. 
+'zerolab1.exe' (Win32): Loaded 'C:\Windows\SysWOW64\vcruntime140d.dll'. 
+'zerolab1.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ucrtbased.dll'. 
+The thread 0x17b8 has exited with code 0 (0x0).
+'zerolab1.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel.appcore.dll'. 
+'zerolab1.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcrt.dll'. 
+'zerolab1.exe' (Win32): Loaded 'C:\Windows\SysWOW64\rpcrt4.dll'. 
+The thread 0x32e0 has exited with code 0 (0x0).
+The thread 0x2330 has exited with code 0 (0x0).
+The program '[1196] zerolab1.exe' has exited with code 0 (0x0).
